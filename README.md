@@ -1,7 +1,7 @@
 ### Just a random Korean doing tons of code.
-EN speaker.
-ISTP
-FPS tryhard
+EN speaker   
+ISTP   
+FPS tryhard   
 <!--
 **Cultivator2009/Cultivator2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
